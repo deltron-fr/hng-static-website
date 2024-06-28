@@ -1,1 +1,1 @@
-# hng-static-website
+A static website for the HNG internship program
